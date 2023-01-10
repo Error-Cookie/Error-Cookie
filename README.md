@@ -1,16 +1,17 @@
-### Hi there 👋
+# ErrorCookie 🍪
+Welcome to my GitHub profile! My name is ErrorCookie, and I am an experienced developer with a keen interest in solving complex problems and creating high-performance applications.
 
-<!--
-**Error-Cookie/Error-Cookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Languages
+I specialize in the following programming languages:
 
-Here are some ideas to get you started:
+- JavaScript and Typescript
+- Java and Kotlin
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in Competetive Programming, Linux, Game Modding and writing Bots.
+
+## Contact
+If you'd like to get in touch, feel free to message me on Discord **ErrorCookie#0001**.
+
+[![ErrorCookie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Error-Cookie)]()  
+Thanks for stopping by! 🍪
